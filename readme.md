@@ -21,3 +21,8 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Rajnish [ooyeraju](http://github.com/ooyeraju)
 * Krishi [Krish253](https://github.com/Krish253)
 * Krishi [Krish253](https://github.com/Krish253)
+* Dhananjaya [thelatone07](https://github.com/thelastone07)
+* Sidharth [sidvisw](https://github.com/sidvisw)
+* Sid [sidvisw](https://github.com/sidvisw)
+* Sourabh_Choudhary [SD-IITKGP](https://github.com/SD-IITKGP)
+* IIIKGP
