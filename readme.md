@@ -19,4 +19,15 @@ This file is written in the [Markdown format](https://guides.github.com/features
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
 * Ananya [iamananya](http://github.com/iamananya)
 * Rajnish [ooyeraju](http://github.com/ooyeraju)
+<<<<<<< HEAD
 * Riddhiman [Riddhiman-M](https://github.com/Riddhiman-M/demo)
+=======
+* Naman [KohliNaman](http://github.com/KohliNaman)
+* Krishi [Krish253](https://github.com/Krish253)
+* Krishi [Krish253](https://github.com/Krish253)
+* Dhananjaya [thelatone07](https://github.com/thelastone07)
+* Sidharth [sidvisw](https://github.com/sidvisw)
+* Sid [sidvisw](https://github.com/sidvisw)
+* Sourabh_Choudhary [SD-IITKGP](https://github.com/SD-IITKGP)
+* IIIKGP
+>>>>>>> 1b97347aae5a473a18280636936bb5786ec556bc
