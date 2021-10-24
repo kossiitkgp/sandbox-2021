@@ -20,3 +20,9 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Ananya [iamananya](http://github.com/iamananya)
 * Rajnish [ooyeraju](http://github.com/ooyeraju)
 * Dhananjaya [thelatone07](https://github.com/thelastone07)
+* Sidharth [sidvisw](https://github.com/sidvisw)
+* Sid [sidvisw](https://github.com/sidvisw)
+* Sourabh_Choudhary [SD-IITKGP](https://github.com/SD-IITKGP)
+* IIIKGP
+
+
