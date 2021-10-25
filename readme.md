@@ -17,6 +17,7 @@ Some more guidelines:
 This file is written in the [Markdown format](https://guides.github.com/features/mastering-markdown/).
 
 Lines starting with `*` are automatically rendered as bullet points and phrases containing `[name](URL)` are automatically hyperlinked.
+* Amit Kumar [Amitkumar9199](http://github.com/Amitkumar9199)
 * Ananya [iamananya](http://github.com/iamananya)
 * Rajnish [ooyeraju](http://github.com/ooyeraju)
 * Naman [KohliNaman](http://github.com/KohliNaman)
