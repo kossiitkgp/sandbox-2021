@@ -27,3 +27,4 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Sid [sidvisw](https://github.com/sidvisw)
 * Sourabh_Choudhary [SD-IITKGP](https://github.com/SD-IITKGP)
 * IIIKGP
+* Akshat [akshatahuja1] (https://github.com/akshatahuja1)
