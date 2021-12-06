@@ -20,6 +20,7 @@ Lines starting with `*` are automatically rendered as bullet points and phrases 
 * Ananya [iamananya](http://github.com/iamananya)
 * Rajnish [ooyeraju](http://github.com/ooyeraju)
 * Naman [KohliNaman](http://github.com/KohliNaman)
+* Madhusudan [hero1601](https://github.com/hero1601)
 * Krishi [Krish253](https://github.com/Krish253)
 * Krishi [Krish253](https://github.com/Krish253)
 * Dhananjaya [thelatone07](https://github.com/thelastone07)
